@@ -1,0 +1,1 @@
+# SOT_DOMAIN_CLASS
